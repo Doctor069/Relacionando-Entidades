@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NET_6_Relacionando_Entidades.props" />
+</Project>
